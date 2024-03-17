@@ -1,8 +1,4 @@
 <h1 align="center">Hi 👋, I'm Arslan</h1>
-<h3 align="center">I am an exceptionally self-motivated and results-driven Machine Learning & Software Engineer with extensive experience across a wide spectrum of web-based, mobile, and client-server applications. My expertise spans the entire System Development Life Cycle, including designing and developing. I thrive in a stable yet dynamic work environment and am committed to bringing a high level of dedication, motivation, and responsibility to every project!</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arslankamchybekov" alt="arslankamchybekov" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/ArslanKamchybekov](https://github.com/ArslanKamchybekov)
 
 - 📝 I regularly write articles on [https://medium.com/@arslankamcybekov7](https://medium.com/@arslankamcybekov7)
@@ -27,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arslankamchybekov&show_icons=true&locale=en&layout=compact" alt="arslankamchybekov" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arslankamchybekov&show_icons=true&locale=en" alt="arslankamchybekov" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arslankamchybekov&" alt="arslankamchybekov" /></p>
