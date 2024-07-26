@@ -2,7 +2,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/ArslanKamchybekov)
 
-- 📝 I regularly write articles on [Medium Articles](https://medium.com/@arslankamcybekov7)
+- 📝 I regularly write articles on [Medium](https://medium.com/@arslankamcybekov7)
 
 - 📫 How to reach me **kamchybekov.arslan.us@gmail.com**
 
