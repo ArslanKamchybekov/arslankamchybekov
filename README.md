@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **kamchybekov.arslan.us@gmail.com**
 
-- 📄 Know about my experiences [https://arslankamchybekov.github.io/portfolio](arslankamchybekov.com)
+- 📄 Know about my experiences [arslankamchybekov.com](arslankamchybekov.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
