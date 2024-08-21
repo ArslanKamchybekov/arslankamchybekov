@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Arslan</h1>
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/ArslanKamchybekov)
+## 👨‍💻 All of my projects are available at [Github](https://github.com/ArslanKamchybekov)
 
-- 📝 I write articles on [Medium](https://medium.com/@arslankamcybekov7)
+## 📝 I write articles on [Medium](https://medium.com/@arslankamcybekov7)
 
-- 📫 How to reach me **kamchybekov.arslan.us@gmail.com**
+## 📫 How to reach me **kamchybekov.arslan.us@gmail.com**
 
-- 📄 Know about my experiences [Personal Portfolio](https://arslankamchybekov.com)
+## 📄 Know about my experiences [Personal Portfolio](https://arslankamchybekov.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
