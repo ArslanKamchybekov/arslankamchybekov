@@ -19,7 +19,6 @@
   <a href="@kamchybekov7" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
-  <a href="https://www.leetcode.com/arslankamchybekov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arslankamchybekov" height="30" width="40" /></a>
 </div>
 
 ###
