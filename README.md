@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Arslan and I'm a Software Engineer & Freshman @ UIC</h2>
+<h2 align="left">Hi 👋! My name is Arslan and I'm a Software Engineer & CS @ UIC</h2>
 
 ###
 
